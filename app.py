@@ -1,0 +1,1 @@
+# Código principal de Flask para el sitio de Papelera Santamarina
